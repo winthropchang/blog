@@ -51,4 +51,9 @@ local a = {
     end
 };
 a.test("otto", 19);
+-- console output -----------------------------------
+--
+-- emptyMethod(arg1=some string, asdf=2012)
+-- test(age=19, name=otto)
+--
 ```
